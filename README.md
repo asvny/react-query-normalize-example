@@ -1,2 +1,2 @@
-# react-query-example
+# react-query-normalize-example
 Created with CodeSandbox
